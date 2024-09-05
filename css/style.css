@@ -1,0 +1,226 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+header{
+    width: 100%;
+    height: 10vh;
+    display: flex;  
+    background: #ec4e20;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 8rem;
+    height: auto;
+}
+
+.niks1{
+    width: 2rem;
+    height: 100%;
+}
+
+body{
+    background: #353531;
+
+}
+
+main{
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+article{
+    width: 50rem;
+    height: 70vh;
+    background: darkgrey; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.product-foto{
+    width: 80%;
+    height: 80%;
+}
+
+a{
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 3rem; 
+    color:black;
+}
+
+h1{
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 3rem; 
+    color:black;
+}
+
+.title{
+    padding-bottom: 10rem;
+}
+
+.custemize{
+    width: 80rem;
+}
+.kleuren{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.pet{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 100%;
+    border: none;
+    
+}
+
+.pet1{
+    
+    background: white;
+}
+
+.pet2{
+    background: red;
+}
+
+.pet3{
+    background: blue;
+}
+
+.pet4{
+    background: gold;
+}
+
+.pet5{
+    background: silver;
+}
+
+.schoen{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 100%;
+    border: none;
+    
+}
+
+.schoen1{
+    
+    background: white;
+}
+
+.schoen2{
+    background: red;
+}
+
+.schoen3{
+    background: blue;
+}
+
+.schoen4{
+    background: gold;
+}
+
+.schoen5{
+    background: silver;
+}
+
+.skateboard{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 100%;
+    border: none;
+    
+}
+
+.skateboard1{
+    
+    background: white;
+}
+
+.skateboard2{
+    background: red;
+}
+
+.skateboard3{
+    background: blue;
+}
+
+.skateboard4{
+    background: gold;
+}
+
+.skateboard5{
+    background: silver;
+}
+
+.knop1{
+    display: flex;
+    width: 30rem;
+    height: 5rem;
+    display: flex;
+    border-radius: 2rem;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.knop2{
+    display: flex;
+    width: 30rem;
+    height: 5rem;
+    display: flex;
+    border-radius: 2rem;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.knop3{
+    display: flex;
+    width: 30rem;
+    height: 5rem;
+    display: flex;
+    border-radius: 2rem;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+footer{
+    height: 5vh;
+    width: 100%;
+    background: #ec4e20;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+    text-decoration: none;
+}
